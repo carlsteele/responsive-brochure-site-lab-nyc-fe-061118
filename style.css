@@ -1,0 +1,35 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+/*body {*/
+/*  background: red;*/
+  
+/*}*/
+.header {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background: #9b111e;
+  font-size: 50px;
+  text-align: center;
+}
+.grid-item  {
+  padding: 10px;
+}
+
+.image {
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+body {
+  background: #FFC627;
+}
+
+.grid-container {
+  
+  
+}

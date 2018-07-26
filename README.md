@@ -76,3 +76,10 @@ check out what JavaScript can do to make a web page more dynamic!
 
 [ST]: https://en.wikipedia.org/wiki/Sachin_Tendulkar
 [Phish]: https://en.wikipedia.org/wiki/Phish
+
+# Next Steps
+1. make the image responsive
+  * put it inside a div
+  * give the image a width of 100%
+2. Make the page responsive with a media query
+  * Pick a break point and make your three sections (about, contact, athletics) stack vertically
